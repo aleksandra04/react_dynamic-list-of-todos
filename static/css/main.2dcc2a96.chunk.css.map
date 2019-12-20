@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,cACE,cACF","file":"main.2dcc2a96.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.header:hover {\n  cursor: pointer;\n}\n"]}
